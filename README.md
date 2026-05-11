@@ -27,4 +27,4 @@ A high-quality, aesthetic custom skin for your Steam Library. This project featu
 
 **Logos: *High-resolution typography with English and Japanese text.***
 
-### Titles: Additional title banners for further customization.
+**Titles: Additional title banners for further customization.**
