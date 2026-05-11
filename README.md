@@ -1,4 +1,4 @@
-# 🌌 Perfection Is Endless | Steam Custom Profile
+# 🌌 Steam Custom Profile
 A high-quality, aesthetic custom skin for your Steam Library. This project features a monochrome manga style combined with a deep space atmosphere, centered around the theme of "Perfection" (完璧).
 
 ## 📥 How to Download
